@@ -1,0 +1,194 @@
+#container *{
+    display: inline-block;
+    padding: 0;
+    
+    line-height: 0;
+}
+#container{
+    width: 1500px;
+    height: 1000px;
+    background: white;
+}
+
+#topBar{
+    width: 100%;
+    height: 15%;
+}
+
+#banner{
+    background: yellow;
+    width: 100%;
+    height: 30%;
+}
+
+#search{
+    background: darkslategray;
+    width: 100%;
+    height: 35%;
+}
+#logo{
+    width: 15%;
+    height: 100%;
+    background: palevioletred;
+}
+#searchbar{
+    width: 65%;
+    height: 100%;
+    background: lightpink
+}
+#kindle{
+    width: 20%;
+    height: 100%;
+    background: palevioletred;
+}
+
+#dropdown{
+    background: blue;
+    width: 100%;
+    height: 35%;
+}
+#departments{
+    background: #FF8C00;
+    width: 10%;
+    height: 100%;
+}
+#menu *{
+    background: #8FBC8F;
+    width: 10%;
+    height: 100%;
+    margin-left: 20px; 
+}
+#menu{
+   
+    width: 40%;
+    height: 100%;
+}
+#accounts{
+   margin-left: 190px;
+    width: 25%;
+    height: 100%; 
+}
+#accounts *{
+    background: #FF1493;
+    width: 13%;
+    height: 100%;
+    margin: 0 0 0 20px;
+}
+#mainContent{
+    background: white;
+    width: 90%;
+    height: 80%;
+    margin: 0 5%;
+    vertical-align: top;
+   
+}
+#gallery{
+    background: lightgreen;
+    width: 100%;
+    height: 40%;
+}
+.col{
+    width: 24.0625%;
+    height: 55%;
+    background: lightgray;
+    margin: 15px 0 0 1.25%;
+    vertical-align: top;
+
+}
+#col1{
+    width: 24.0625%;
+    height: 55%;
+    background: lightgray;
+    vertical-align: top;
+    margin-top:15px;
+}
+#coltext1{
+    width: 40%;
+    height: 5%;
+    background: black;
+    margin: 30% 30% 0 30%;
+}
+#coltext2{
+   width: 50%;
+    height: 5%;
+    background: black;
+    margin: 0 25%;
+    margin-top: 15px;
+}
+#button1{
+    width: 80%;
+    height: 5%;
+    background: black;
+    margin: 0 10%;
+    margin-top: 15px;
+}
+#col2text1, #col3text{
+    width: 80%;
+    height: 15%;
+    background: black;
+    margin: 0 10%;
+    margin-top: 15px;
+}
+.col2image{
+    width: 30%;
+    height: 30%;
+    background: black;
+    margin: 10% 0 0 13%;
+}
+
+#col3image{
+    width: 80%;
+    height: 70%;
+    background: black;
+    margin: 10% 0 0 10%;
+}
+#ad{
+    width: 100%;
+    height: 40%;
+    background: black;
+    margin-bottom: 5%;
+}
+
+#deal{
+    background: lightgray;
+    width: 100%;
+    height: 56.25%;
+}
+#whitecol{
+    background: white;
+    width: 24.0625%;
+    height: 55%;
+    margin: 15px 0 0 1.25%;
+    vertical-align: top;
+}
+#col4text{
+    width: 80%;
+    height: 20%;
+    background: red;
+    margin: 5% 10%;
+}
+.mini{
+    width: 40%;
+    height: 50%;
+    background: lightgray;
+    margin: 0 10%;
+    vertical-align: top;
+}
+#col5price{
+    width: 80%;
+    height: 30%;
+    background: black;
+    margin: 2% 10%;
+}
+#col6price{
+    width: 80%;
+    height: 20%;
+    background: black;
+    margin: 2% 10%;
+}
+#image6{
+    width: 30%;
+    height: 50%;
+    background: black;
+   
+}
